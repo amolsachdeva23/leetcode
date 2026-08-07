@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/amolsachdeva23/leetcode/tree/master/0938-range-sum-of-bst) |
+## Array
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
