@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/amolsachdeva23/leetcode/tree/master/3794-reverse-string-prefix) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
