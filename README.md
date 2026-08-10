@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
 | [0771-jewels-and-stones](https://github.com/amolsachdeva23/leetcode/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/amolsachdeva23/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
