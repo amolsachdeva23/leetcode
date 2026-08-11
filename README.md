@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amolsachdeva23/leetcode/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/amolsachdeva23/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/amolsachdeva23/leetcode/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/amolsachdeva23/leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amolsachdeva23/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/amolsachdeva23/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
 | [2595-number-of-even-and-odd-bits](https://github.com/amolsachdeva23/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
