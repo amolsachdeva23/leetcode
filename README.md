@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/amolsachdeva23/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amolsachdeva23/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amolsachdeva23/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
 | [2595-number-of-even-and-odd-bits](https://github.com/amolsachdeva23/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amolsachdeva23/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
