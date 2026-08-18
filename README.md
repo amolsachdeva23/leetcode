@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amolsachdeva23/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amolsachdeva23/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amolsachdeva23/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amolsachdeva23/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/amolsachdeva23/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
