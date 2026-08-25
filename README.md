@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amolsachdeva23/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amolsachdeva23/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amolsachdeva23/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/amolsachdeva23/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/amolsachdeva23/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
