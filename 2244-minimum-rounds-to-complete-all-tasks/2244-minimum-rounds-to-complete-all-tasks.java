@@ -9,9 +9,13 @@ class Solution {
 
           int number = entry.getKey();
           int freq = entry.getValue();
-          if(freq == 1) return -1;
-        //   
-         k += (freq + 2) / 3;
+          if(freq==1) return -1;
+          if(freq%3==0) k+=freq/3;
+          else{
+            k+= freq/3+1;
+          }
+         
+        
           
         }
         return k;
