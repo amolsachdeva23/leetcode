@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amolsachdeva23/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/amolsachdeva23/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/amolsachdeva23/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [3794-reverse-string-prefix](https://github.com/amolsachdeva23/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
