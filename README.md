@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/amolsachdeva23/leetcode/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/amolsachdeva23/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/amolsachdeva23/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/amolsachdeva23/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
