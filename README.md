@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/amolsachdeva23/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2126-destroying-asteroids](https://github.com/amolsachdeva23/leetcode/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
+| [2126-destroying-asteroids](https://github.com/amolsachdeva23/leetcode/tree/master/2126-destroying-asteroids) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2126-destroying-asteroids](https://github.com/amolsachdeva23/leetcode/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
