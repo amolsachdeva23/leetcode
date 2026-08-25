@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amolsachdeva23/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amolsachdeva23/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amolsachdeva23/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
