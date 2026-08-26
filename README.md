@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amolsachdeva23/leetcode/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/amolsachdeva23/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amolsachdeva23/leetcode/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/amolsachdeva23/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amolsachdeva23/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amolsachdeva23/leetcode/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/amolsachdeva23/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Array
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/amolsachdeva23/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
