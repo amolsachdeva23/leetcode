@@ -8,13 +8,17 @@ class Solution {
         int sum=0;
         int k=0;
         for(int i=1;i<=n;i++){
-            if(!set.contains(i)) {
-    if(sum + i > maxSum)
-        break;
+             if (set.contains(i)) {
+                continue;
+            }
 
-    sum += i;
-    k++;
-}
+            if (sum + i > maxSum) {
+                break;
+            }
+
+            sum += i;
+            k++;
+
         }
         return k;
     }
