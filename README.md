@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amolsachdeva23/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/amolsachdeva23/leetcode/tree/master/1323-maximum-69-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amolsachdeva23/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/amolsachdeva23/leetcode/tree/master/1323-maximum-69-number) |
 | [2126-destroying-asteroids](https://github.com/amolsachdeva23/leetcode/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
