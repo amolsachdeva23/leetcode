@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amolsachdeva23/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amolsachdeva23/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/amolsachdeva23/leetcode/tree/master/0509-fibonacci-number) |
+| [0991-broken-calculator](https://github.com/amolsachdeva23/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/amolsachdeva23/leetcode/tree/master/1323-maximum-69-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/amolsachdeva23/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/amolsachdeva23/leetcode/tree/master/0991-broken-calculator) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/amolsachdeva23/leetcode/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amolsachdeva23/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
