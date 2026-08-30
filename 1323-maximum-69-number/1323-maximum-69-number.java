@@ -1,34 +1,14 @@
 class Solution {
-    public int maximum69Number(int num) {
-        int x = num;
-        int k = 0;
-        while (x != 0) {
-            k++;
-            x /= 10;
+    public int maximum69Number (int num) {
+        int pv=0;
+        int spv=-1;
+        int temp=num;
+        while(temp!=0){
+            int r=temp%10;
+            if(r==6)spv=pv;
+            temp/=10;
+            pv++;
         }
-        x = num;
-        int[] arr = new int[k];
-        
-        int i = k - 1;
-        while (x != 0) {
-            arr[i] = x % 10;
-            x /= 10;
-            i--;
-        }
-        x = num;
-        for (i = 0; i < k; i++) {
-            if (arr[i] == 6)
-                break;
-        }
-        if (i == k)
-            return num;
-        else {
-            arr[i] = 9;
-            num = 0;
-        }
-        for (int a : arr) {
-            num = num * 10 + a;
-        }
-        return num;
+        return num + 3* (int)Math.pow(10,spv);
     }
 }
