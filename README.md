@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amolsachdeva23/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/amolsachdeva23/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/amolsachdeva23/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amolsachdeva23/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/amolsachdeva23/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -223,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amolsachdeva23/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/amolsachdeva23/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/amolsachdeva23/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Timsort
 |  |
 | ------- |
