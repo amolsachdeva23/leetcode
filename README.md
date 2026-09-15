@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amolsachdeva23/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/amolsachdeva23/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/amolsachdeva23/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amolsachdeva23/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/amolsachdeva23/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/amolsachdeva23/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amolsachdeva23/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/amolsachdeva23/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/amolsachdeva23/leetcode/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/amolsachdeva23/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
