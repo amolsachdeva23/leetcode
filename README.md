@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amolsachdeva23/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/amolsachdeva23/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/amolsachdeva23/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
