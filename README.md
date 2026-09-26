@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/amolsachdeva23/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/amolsachdeva23/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amolsachdeva23/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amolsachdeva23/leetcode/tree/master/0022-generate-parentheses) |
 | [0771-jewels-and-stones](https://github.com/amolsachdeva23/leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/amolsachdeva23/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amolsachdeva23/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amolsachdeva23/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amolsachdeva23/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/amolsachdeva23/leetcode/tree/master/0771-jewels-and-stones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/amolsachdeva23/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/amolsachdeva23/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
