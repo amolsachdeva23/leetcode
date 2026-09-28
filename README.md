@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/amolsachdeva23/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/amolsachdeva23/leetcode/tree/master/0078-subsets) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amolsachdeva23/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/amolsachdeva23/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amolsachdeva23/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amolsachdeva23/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amolsachdeva23/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amolsachdeva23/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amolsachdeva23/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amolsachdeva23/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amolsachdeva23/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amolsachdeva23/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/amolsachdeva23/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amolsachdeva23/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amolsachdeva23/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
