@@ -1,17 +1,23 @@
 class Solution {
-    public int subarraySum(int[] nums, int k) {
-        int n=nums.length;
-        int c=0;
-        for(int i=0;i<n;i++)
-        {
-            int sum=nums[i];
-            if(sum==k) c++;
-            for(int j=i+1;j<n;j++){
-               sum+=nums[j];
-               if(sum==k) c++;
-            }
+    public int subarraySum(int[] arr, int k) {
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+
+        mpp.put(0, 1);
+
+        int presum = 0;
+        int cnt = 0;
+
+        for (int i = 0; i < arr.length; i++) {
+            presum += arr[i];
+
+            int remove = presum - k;
+
+            cnt += mpp.getOrDefault(remove, 0);
+
+            mpp.put(presum, mpp.getOrDefault(presum, 0) + 1);
         }
-        return c;
-        
+
+        return cnt;
+		
     }
 }
