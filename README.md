@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/amolsachdeva23/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2942-find-words-containing-character](https://github.com/amolsachdeva23/leetcode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/amolsachdeva23/leetcode/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amolsachdeva23/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amolsachdeva23/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amolsachdeva23/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/amolsachdeva23/leetcode/tree/master/2951-find-the-peaks) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
 |  |
