@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amolsachdeva23/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/amolsachdeva23/leetcode/tree/master/0704-binary-search) |
 | [0938-range-sum-of-bst](https://github.com/amolsachdeva23/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amolsachdeva23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amolsachdeva23/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/amolsachdeva23/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/amolsachdeva23/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/amolsachdeva23/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amolsachdeva23/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amolsachdeva23/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amolsachdeva23/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amolsachdeva23/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
